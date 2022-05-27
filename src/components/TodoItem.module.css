@@ -1,0 +1,18 @@
+.eachdiv{
+
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    width: 90%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 20px;
+
+
+}
+.striked{
+    text-decoration: line-through;
+}
